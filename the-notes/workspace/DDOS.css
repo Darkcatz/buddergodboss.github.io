@@ -1,0 +1,31 @@
+.navbar-tabs{
+    background-color:#2ecc71;
+    margin: 0px;
+    padding: 5px;
+    border-radius:5px;
+    font-size:15px;
+}
+.navbar-tabs{
+    list-style-type:none;
+    margin:10;
+    padding:1;
+}
+.navbar-item{
+    display:inline;
+}
+.navbar-item > a {
+    color: white;
+}
+.navbar-item {
+display:inline;
+letter-spacing: 1px;
+padding: 0px;
+text-transform: uppercase;
+}
+body {
+    background: url("http://technicalforum.org/sites/default/files/styles/image_for_front_teaser/public/windows-tips-images/no-internet-icon.png?itok=I-Xfd1EH") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
